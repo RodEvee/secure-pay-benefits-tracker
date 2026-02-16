@@ -1,0 +1,7 @@
+{
+  "name": "Secure Pay & Benefits Tracker",
+  "description": "A privacy-first, highly accurate employee time-tracking and compensation calculator with biometric simulation and local encryption.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
